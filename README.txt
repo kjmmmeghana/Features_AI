@@ -10,6 +10,7 @@ Overall repository hierarchy:
 │   │   └── EDA  
 │   │       ├── eda_task1.py  
 │   │       ├── EDA_Task1.ipynb  
+│   │       ├── EDA_Task1.pdf  
 │   │       └── data_final.csv  
 │   ├── Task2  
 │   │   ├── File_metadata.csv  
