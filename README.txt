@@ -1,4 +1,4 @@
-# Introduction:
+** Introduction: **
 You are tasked with developing key features which encompasses distinct problem statements, each targeting a crucial area within the Data/ML/AI domain. Your work will directly contribute to the usability and efficiency of our platform, enhancing user experience and providing valuable insights.  
 
 Overall repository hierarchy:  
