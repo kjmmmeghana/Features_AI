@@ -1,0 +1,16 @@
+bs4
+PyPDF2  
+python-docx  
+contractions  
+unidecode  
+datasets  
+sentence-transformers  
+faiss-cpu  
+accelerate  
+bitsandbytes  
+pypdf   
+langchain_community  
+langchain-text-splitters  
+langchain  
+nltk 
+rouge-score
