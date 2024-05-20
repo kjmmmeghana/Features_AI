@@ -81,15 +81,19 @@ Overall repository hierarchy:
 │       ├── gold_answers.txt  
 │       ├── questions.txt  
 │       └── task3_rag_faq.py  
-└── Executed_ipynb_files  
-    ├── EDA_Task1.ipynb  
-    ├── Task2_File_similarity.ipynb  
-    └── Task3_RAG_FAQ.ipynb  
-└── Documentation  
+│── Executed_ipynb_files  
+│    ├── EDA_Task1.ipynb  
+│    ├── Task2_File_similarity.ipynb  
+│    │── Task3_RAG_FAQ.ipynb  
+│    └── PDF_ipynb_files  
+│        ├── EDA_Task1.pdf  
+│        ├── Task2_File_similarity.pdf  
+│        └── Task3_RAG_FAQ.pdf  
+│── Documentation  
 │   ├── Task1_report  
 │   ├── Task2_report  
-│   ├── Task3_report  
-└── README.txt  
+│   └── Task3_report  
+│── README.txt  
 └── requirements.txt  
 
 
