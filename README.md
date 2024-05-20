@@ -17,7 +17,7 @@ python eda_task1.py
 
 To check the python notebook where the EDA is already perfromed, open ** EDA_Task1.ipynb **
 
-Dependencies needed to be installed priorly:
+Dependencies needed to be installed priorly: (using pip)
 bs4
 
 ## File Similarity Detection
@@ -88,12 +88,15 @@ bs4
 ├── file_similarity.py
 ├── File_similarity.ipynb
 
+
 In order to execute the python script for file similarity detection, the command is as follows:
 python file_similarity.py
 
-To check the python notebook, open ** File_similarity.ipynb **
+To check the python notebook, open File_similarity.ipynb
 
-Dependencies needed to be installed priorly:
+
+
+Dependencies needed to be installed priorly: (using pip)
 PyPDF2
 python-docx
 contractions
@@ -109,10 +112,11 @@ unidecode
 ├── Task3_RAG_FAQ.ipynb
 
 
+
 In order to execute the script, the command is as follows:
 python task3_rag_faq.py
 
-Dependencies needed to be installed priorly:
+Dependencies needed to be installed priorly: (using pip)
 datasets 
 sentence-transformers 
 faiss-cpu 
