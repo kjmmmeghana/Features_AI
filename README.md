@@ -1,10 +1,11 @@
 ## Retrieve and Analyze Goodreads Data 
 
 ### File hierarchy 
-├── data_engineer.py
-├── eda_task1.py
-├── EDA_Task1.ipynb
-├── data_final.csv
+├── data_engineer.py  
+├── eda_task1.py  
+├── EDA_Task1.ipynb  
+├── data_final.csv  
+
 
 Note: data_final.csv is generated after data_engineer.py is executed 
 
