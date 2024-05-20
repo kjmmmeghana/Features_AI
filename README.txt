@@ -82,6 +82,10 @@ Overall repository hierarchy:
     ├── EDA_Task1.ipynb  
     ├── Task2_File_similarity.ipynb  
     └── Task3_RAG_FAQ.ipynb  
+└── Reports  
+│   ├── Task1_report  
+│   ├── Task2_report  
+│   ├── Task3_report  
 └── README.txt  
 
 
