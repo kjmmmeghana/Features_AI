@@ -7,7 +7,7 @@
 ├── data_final.csv  
 
 
-Note: data_final.csv is generated after data_engineer.py is executed 
+Note: data_final.csv is generated after data_engineer.py is executed  
 
 In order to execute the scrapping, the command is as follows:
 python data_engineer.py
@@ -17,7 +17,7 @@ python eda_task1.py
 
 To check the python notebook where the EDA is already perfromed, open ** EDA_Task1.ipynb **
 
-Dependencies needed to be installed priorly: (using pip)
+#### Dependencies needed to be installed priorly: (using pip)
 bs4
 
 ## File Similarity Detection
@@ -89,14 +89,14 @@ bs4
 ├── File_similarity.ipynb  
 
 
-In order to execute the python script for file similarity detection, the command is as follows:
+In order to execute the python script for file similarity detection, the command is as follows:  
 python file_similarity.py
 
 To check the python notebook, open File_similarity.ipynb
 
 
 
-Dependencies needed to be installed priorly: (using pip)
+#### Dependencies needed to be installed priorly: (using pip)  
 PyPDF2  
 python-docx  
 contractions  
@@ -113,18 +113,18 @@ unidecode
 
 
 
-In order to execute the script, the command is as follows:
+In order to execute the script, the command is as follows:  
 python task3_rag_faq.py
 
-Dependencies needed to be installed priorly: (using pip)
-datasets 
-sentence-transformers 
-faiss-cpu 
-accelerate
-bitsandbytes
-pypdf 
-langchain_community
-langchain-text-splitters
-langchain
+#### Dependencies needed to be installed priorly: (using pip)  
+datasets  
+sentence-transformers  
+faiss-cpu  
+accelerate  
+bitsandbytes  
+pypdf   
+langchain_community  
+langchain-text-splitters  
+langchain  
 nltk 
 rouge-score
